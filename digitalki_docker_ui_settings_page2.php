@@ -1,0 +1,1 @@
+<div class="wrap"><h2><?php print DIGITALKI_DOCKER_UI_PUGIN_NAME ." ". DIGITALKI_DOCKER_UI_CURRENT_VERSION. "<sub>(Build ".DIGITALKI_DOCKER_UI_CURRENT_BUILD.")</sub>"; ?></h2>more settings</div>
