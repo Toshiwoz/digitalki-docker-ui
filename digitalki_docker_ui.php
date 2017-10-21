@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Docker Compose UI for WordPress
-Plugin URI: https://digitalki.net/
+Plugin URI: https://digitalki.net/docker-compose-ui-for-wordpress
 Description: Docker Compose UI for Wordpress rely on Docker Compose UI (https://github.com/francescou/docker-compose-ui). Interacts with its APIs in order to control  and monitor docker compose.
 Version: 0.1.0
 Author: Loenardo Araki
